@@ -46,3 +46,4 @@ if st.button('Recommend'):
                 with col:
                     st.image(poster_url, width=130)
                     st.write(movie_title)
+
